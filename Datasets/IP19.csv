@@ -1,0 +1,76 @@
+Region,Product,Year,Sales
+New York,Product A,2018,35000
+New York,Product B,2018,40000
+New York,Product C,2018,30000
+New York,Product A,2019,36000
+New York,Product B,2019,42000
+New York,Product C,2019,31000
+New York,Product A,2020,37000
+New York,Product B,2020,43000
+New York,Product C,2020,32000
+New York,Product A,2021,38000
+New York,Product B,2021,44000
+New York,Product C,2021,33000
+New York,Product A,2022,39000
+New York,Product B,2022,45000
+New York,Product C,2022,34000
+Los Angeles,Product A,2018,32000
+Los Angeles,Product B,2018,37000
+Los Angeles,Product C,2018,29000
+Los Angeles,Product A,2019,33000
+Los Angeles,Product B,2019,38000
+Los Angeles,Product C,2019,30000
+Los Angeles,Product A,2020,34000
+Los Angeles,Product B,2020,39000
+Los Angeles,Product C,2020,31000
+Los Angeles,Product A,2021,35000
+Los Angeles,Product B,2021,40000
+Los Angeles,Product C,2021,32000
+Los Angeles,Product A,2022,36000
+Los Angeles,Product B,2022,41000
+Los Angeles,Product C,2022,33000
+Chicago,Product A,2018,30000
+Chicago,Product B,2018,35000
+Chicago,Product C,2018,28000
+Chicago,Product A,2019,31000
+Chicago,Product B,2019,36000
+Chicago,Product C,2019,29000
+Chicago,Product A,2020,32000
+Chicago,Product B,2020,37000
+Chicago,Product C,2020,30000
+Chicago,Product A,2021,33000
+Chicago,Product B,2021,38000
+Chicago,Product C,2021,31000
+Chicago,Product A,2022,34000
+Chicago,Product B,2022,39000
+Chicago,Product C,2022,32000
+Houston,Product A,2018,28000
+Houston,Product B,2018,33000
+Houston,Product C,2018,27000
+Houston,Product A,2019,29000
+Houston,Product B,2019,34000
+Houston,Product C,2019,28000
+Houston,Product A,2020,30000
+Houston,Product B,2020,35000
+Houston,Product C,2020,29000
+Houston,Product A,2021,31000
+Houston,Product B,2021,36000
+Houston,Product C,2021,30000
+Houston,Product A,2022,32000
+Houston,Product B,2022,37000
+Houston,Product C,2022,31000
+Phoenix,Product A,2018,26000
+Phoenix,Product B,2018,31000
+Phoenix,Product C,2018,26000
+Phoenix,Product A,2019,27000
+Phoenix,Product B,2019,32000
+Phoenix,Product C,2019,27000
+Phoenix,Product A,2020,28000
+Phoenix,Product B,2020,33000
+Phoenix,Product C,2020,28000
+Phoenix,Product A,2021,29000
+Phoenix,Product B,2021,34000
+Phoenix,Product C,2021,29000
+Phoenix,Product A,2022,30000
+Phoenix,Product B,2022,35000
+Phoenix,Product C,2022,30000
