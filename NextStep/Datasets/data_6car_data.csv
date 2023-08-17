@@ -1,0 +1,16 @@
+make_and_model,fuel_efficiency,engine_size,horsepower,weight,acceleration,year,origin
+Tesla Model 3,35,2.5,350,3500,4.4,2020,USA
+Toyota Camry,30,2.5,203,3300,7.8,2022,Japan
+Honda Civic,32,1.5,174,2800,8.2,2023,Japan
+Ford F-150,18,3.5,395,5500,6.2,2022,USA
+Chevy Silverado,19,5.3,420,6000,6.0,2023,USA
+Toyota Corolla,33,1.8,139,2500,9.0,2022,Japan
+Honda Accord,31,2.0,192,3200,8.6,2023,Japan
+Nissan Altima,32,2.5,188,3000,8.4,2022,Japan
+Hyundai Elantra,34,2.0,175,2700,8.8,2023,South Korea
+Kia Forte,33,2.0,173,2600,8.9,2022,South Korea
+Volkswagen Jetta,35,1.4,147,2400,9.4,2023,Germany
+Honda CR-V,29,1.5,190,3300,8.0,2022,Japan
+Toyota RAV4,29,2.5,203,3500,7.8,2023,Japan
+Nissan Rogue,29,2.5,181,3200,7.9,2022,Japan
+Chevrolet Equinox,30,1.5,170,3000,8.1,2023,USA

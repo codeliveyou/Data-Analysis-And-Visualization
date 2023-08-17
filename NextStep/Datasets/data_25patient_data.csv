@@ -1,0 +1,10 @@
+patient_id,age,sex,weight,height,bmi,case_id,follow_up_days,status
+1,25,male,75,180,25,1,30,active
+2,30,female,60,160,20,2,25,inactive
+3,40,male,80,190,30,3,15,active
+4,50,female,50,150,15,4,35,inactive
+5,60,male,90,200,35,5,10,active
+6,70,female,40,140,10,6,20,inactive
+7,80,male,100,210,40,7,5,active
+8,90,female,30,130,5,8,15,inactive
+9,100,male,110,220,45,9,10,active

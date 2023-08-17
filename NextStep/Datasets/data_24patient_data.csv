@@ -1,0 +1,6 @@
+patient_id,age,sex,weight,height,bmi,case_id,follow_up_days,status
+12345,25,Male,175,75,25,123456,30,Active
+65432,35,Female,160,60,20,654321,25,In Progress
+78901,45,Male,180,80,28,789012,15,Completed
+90123,55,Female,150,55,22,901234,5,Pending
+101234,65,Male,190,90,32,1012345,0,Cancelled

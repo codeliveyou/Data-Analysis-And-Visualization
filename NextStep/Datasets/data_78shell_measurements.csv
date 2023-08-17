@@ -1,0 +1,14 @@
+Gender,Shell Length,Shell Diameter,Shell Height,Total Weight,Shucked Weight,Viscera Weight,Shell Mass,Age in Years
+Male,10,5,3,100,60,20,40,1
+Female,12,6,4,120,70,30,50,2
+Male,14,7,5,140,80,40,60,3
+Female,16,8,6,160,90,50,70,4
+Male,18,9,7,180,100,60,80,5
+Female,20,10,8,200,110,70,90,6
+Male,22,11,9,220,120,80,100,7
+Female,24,12,10,240,130,90,110,8
+Male,26,13,11,260,140,100,120,9
+Female,28,14,12,280,150,110,130,10
+Male,30,15,13,300,160,120,140,11
+Female,32,16,14,320,170,130,150,12
+Male,34,17,15,340,180,140,160,13

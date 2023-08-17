@@ -1,0 +1,8 @@
+store_name,day_of_week,total_sales,is_holiday,average_temperature,fuel_price,consumer_price_index,unemployment_rate
+Store 1,Monday,1000,False,65,3.5,120,4.5
+Store 2,Tuesday,500,False,70,2.5,110,5.0
+Store 3,Wednesday,750,False,60,3.0,130,3.5
+Store 4,Thursday,1200,False,75,2.5,120,4.0
+Store 5,Friday,1000,True,80,3.0,110,4.5
+Store 6,Saturday,500,True,70,2.5,100,5.0
+Store 7,Sunday,750,True,60,3.0,110,3.5

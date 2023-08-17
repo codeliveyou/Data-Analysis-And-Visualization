@@ -1,0 +1,10 @@
+body_part,muscle_group,exercise,sets,reps
+Chest,Pectoralis Major,Bench Press,3,10
+Back,Latissimus Dorsi,Pull-Ups,3,8
+Shoulders,Deltoids,Overhead Press,3,12
+Triceps,Triceps Brachii,Close-Grip Bench Press,3,10
+Biceps,Biceps Brachii,Bicep Curls,3,12
+Legs,Quadriceps,Squats,3,10
+Hamstrings,Hamstrings,Deadlifts,3,8
+Calves,Gastrocnemius,Calf Raises,3,15
+Abs,Rectus Abdominis,Crunches,3,20

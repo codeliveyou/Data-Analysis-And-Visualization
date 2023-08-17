@@ -1,0 +1,9 @@
+sex,shell_length,shell_width,shell_height,body_mass,soft_tissue_mass,visceral_mass,shell_mass,age_in_years
+male,10,5,3,100,50,20,30,1
+female,8,4,2,80,40,15,25,2
+male,12,6,4,120,60,30,40,3
+female,10,5,3,100,50,20,30,4
+male,14,7,5,140,70,35,45,5
+female,12,6,4,120,60,30,40,6
+male,16,8,6,160,80,40,50,7
+female,14,7,5,140,70,35,45,8

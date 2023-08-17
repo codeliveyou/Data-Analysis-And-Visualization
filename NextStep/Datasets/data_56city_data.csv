@@ -1,0 +1,12 @@
+Information Availability,House Cost,School Quality,Trust in Police,Street Quality,Events,Happiness
+High,Low,Good,High,Good,Many,Happy
+Medium,Medium,Average,Medium,Average,Some,Content
+Low,High,Bad,Low,Bad,Few,Sad
+High,Medium,Excellent,High,Excellent,Many,Very Happy
+Medium,Low,Good,Medium,Good,Some,Happy
+Low,Medium,Bad,Low,Bad,Few,Sad
+High,High,Excellent,High,Excellent,Many,Very Happy
+Medium,Medium,Good,Medium,Good,Some,Happy
+Low,Low,Bad,Low,Bad,Few,Sad
+High,Medium,Excellent,High,Excellent,Many,Very Happy
+Medium,High,Good,Medium,Good,Some,Happy

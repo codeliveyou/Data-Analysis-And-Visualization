@@ -1,0 +1,22 @@
+name,mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin
+Corolla,30,4,1.8,130,2600,10.2,1984,Japan
+Camry,28,6,2.2,115,3000,10.4,1985,Japan
+Accord,27,4,2.0,110,2800,10.6,1986,Japan
+Altima,26,6,2.4,150,3200,10.8,1987,Japan
+Sebring,25,6,2.5,115,3000,11.0,1988,USA
+Grand Am,24,6,3.0,150,3400,11.2,1989,USA
+Cavalier,23,4,2.2,110,2800,11.4,1990,USA
+Mustang,22,8,4.9,225,4000,11.6,1991,USA
+Camaro,21,8,5.7,275,4000,11.8,1992,USA
+Challenger,20,8,5.9,300,4000,12.0,1993,USA
+Viper,19,8,8.0,400,4000,12.2,1994,USA
+Corvette,18,8,5.7,350,4000,12.4,1995,USA
+F-150,17,8,4.6,235,4000,12.6,1996,USA
+Silverado,16,8,5.7,275,4000,12.8,1997,USA
+Tahoe,15,8,5.7,275,4000,13.0,1998,USA
+Bronco,14,8,5.0,225,4000,13.2,1999,USA
+Grand Cherokee,13,8,5.2,250,4000,13.4,2000,USA
+Suburban,12,8,6.0,300,4000,13.6,2001,USA
+Excursion,11,8,7.3,375,4000,13.8,2002,USA
+Yukon,10,8,5.3,295,4000,14.0,2003,USA
+Tahoe Hybrid,9,6,3.0,330,5000,14.2,2004,USA

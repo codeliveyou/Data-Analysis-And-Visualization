@@ -1,0 +1,12 @@
+patient_identifier,age_in_years,gender,body_weight_in_kg,height_in_cm,body_mass_index,case_number,follow_up_period_in_days,clinical_status
+1,20,female,50,160,25,12345,30,active
+2,30,male,70,180,28,45678,60,recovered
+3,40,female,60,170,26,78901,90,deceased
+4,50,male,80,190,30,23456,120,active
+5,60,female,90,200,32,56789,150,recovered
+6,70,male,100,210,34,89012,180,deceased
+7,80,female,110,220,36,34567,210,active
+8,90,male,120,230,38,67890,240,recovered
+9,100,female,130,240,40,90123,270,deceased
+10,110,male,140,250,42,12345,300,active
+11,120,female,150,260,44,45678,330,recovered

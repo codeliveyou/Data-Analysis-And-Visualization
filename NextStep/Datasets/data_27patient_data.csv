@@ -1,0 +1,6 @@
+patient_identifier,years_old,biological_sex,body_weight_in_pounds,height_in_inches,body_mass_index,medical_case_identifier,length_of_followup_in_months,clinical_diagnosis
+12345,25,Female,150,60,25.0,67890,12,Diabetes
+45678,35,Male,200,72,30.0,98765,24,Heart Disease
+78901,45,Male,250,78,35.0,12345,36,Cancer
+90123,55,Female,175,66,22.5,45678,48,Asthma
+10234,65,Male,100,54,18.5,78901,60,Alzheimer's Disease

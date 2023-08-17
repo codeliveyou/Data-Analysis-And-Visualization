@@ -1,0 +1,11 @@
+body_area,target_muscle,activity,workout_length,repetitions
+Chest,Chest,Bench Press,30,10
+Back,Lats,Pull-Ups,15,10
+Triceps,Triceps,Triceps Pushdowns,30,15
+Biceps,Biceps,Bicep Curls,30,15
+Shoulders,Shoulders,Overhead Press,30,10
+Legs,Quadriceps,Squats,30,10
+Legs,Hamstrings,Leg Press,30,10
+Calves,Calves,Calf Raises,30,20
+Core,Abs,Crunches,30,20
+Core,Back,Superman,15,10

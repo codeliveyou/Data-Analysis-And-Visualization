@@ -1,0 +1,23 @@
+name,cylinders,mpg,displacement,acceleration,origin
+dodge colt (sw),4,28,98,16.0,usa
+volkswagen 411 (sw),6,23,121,20.0,japan
+toyouta corona mark ii (sw),4,15,122,14.5,japan
+peugeot 504 (sw),6,21,120,19.5,europe
+renault 12 (sw),4,26,96,18.0,europe
+ford pinto (sw),4,22,122,16.0,usa
+toyota corolla 1600 (sw),4,29,97,16.5,japan
+volvo 145e (sw),4,18,121,14.5,usa
+chevrolet malibu,8,13,350,14.0,usa
+ford gran torino,4,14,120,14.5,usa
+dodge coronet custom,8,15,122,12.5,usa
+mercury marquis brougham,8,30,429,11.5,usa
+buick century 350,4,13,122,13.0,usa
+amc hornet,6,18,232,14.0,europe
+chevrolet caprice classic,8,13,120,12.0,europe
+ford ltd,6,15,351,11.0,europe
+plymouth fury gran sedan,8,14,318,14.5,europe
+chrysler new yorker brougham,8,13,440,12.0,europe
+amc ambassador brougham,6,33,120,11.0,europe
+plymouth valiant,6,18,225,16.5,europe
+buick electra 225 custom,8,12,122,11.0,europe
+chevrolet nova custom,4,34,250,18.0,europe

@@ -1,0 +1,8 @@
+location_name,region,subregion,cases_per_100k,total_cases,year
+New York City,North America,United States,1000,100000,2023
+London,Europe,United Kingdom,500,50000,2023
+Tokyo,Asia,Japan,200,20000,2023
+Beijing,Asia,China,100,10000,2023
+Mumbai,Asia,India,50,5000,2023
+São Paulo,South America,Brazil,25,2500,2023
+Mexico City,North America,Mexico,15,1500,2023

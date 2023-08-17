@@ -1,0 +1,10 @@
+vehicle_model,fuel_economy,engine_size,engine_displacement,horsepower,weight,acceleration,year,origin
+Tesla Model 3,33,2.5,1.5,350,1500,4.4,2022,USA
+Toyota Camry,28,2.5,1.8,203,3200,8.3,2023,Japan
+Honda Civic,31,1.5,1.4,174,2800,9.2,2022,Japan
+Ford Mustang,23,5.0,4.6,460,3500,5.2,2023,USA
+Chevy Camaro,24,6.2,6.2,455,3800,4.8,2022,USA
+Nissan Altima,29,2.5,1.8,188,3200,8.5,2023,Japan
+Hyundai Elantra,30,2.0,1.8,195,3000,8.8,2022,South Korea
+Kia Forte,29,2.0,1.8,201,3000,9.0,2023,South Korea
+Mazda3,32,2.5,1.8,184,3000,8.7,2022,Japan

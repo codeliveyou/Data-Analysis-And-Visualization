@@ -1,0 +1,15 @@
+food_name,serving_size_grams,total_calories,protein_grams,fat_grams,saturated_fat_grams,trans_fat_grams,cholesterol_mg,carbohydrates_grams,sugar_grams,added_sugar_grams,sodium_mg,food_category
+Apple,100,95,0.5,0.3,0.1,0,0,19.5,9.5,0,10,Fruit
+Banana,100,105,1.1,0.4,0.2,0,0,23.5,12.5,0,12,Fruit
+Orange,100,62,1.3,0.2,0.1,0,0,11.6,5.8,0,25,Fruit
+Grapefruit,100,47,1.1,0.2,0.1,0,0,10.4,4.2,0,23,Fruit
+Peach,100,60,1.6,1.2,0.3,0,0,13.1,6.5,0,19,Fruit
+Pear,100,95,0.5,0.5,0.2,0,0,19.4,9.4,0,12,Fruit
+Strawberry,100,32,0.7,0.3,0.1,0,0,7.7,3.8,0,14,Fruit
+Blueberry,100,57,0.8,0.4,0.2,0,0,12.7,6.3,0,14,Fruit
+Watermelon,100,46,25.0,1.5,0.2,0,0,12.6,6.3,0,30,Fruit
+Grapes,100,104,0.6,0.1,0.1,0,0,26.4,13.2,0,27,Fruit
+Avocado,100,160,2.0,15.0,2.0,0,0,10.0,5.0,0,20,Fruit
+Pineapple,100,50,45.0,1.0,0.5,0,0,12.0,6.0,0,15,Fruit
+Mango,100,160,1.4,0.5,0.3,0,0,25.0,12.5,0,25,Fruit
+Cantaloupe,100,50,35.0,0.9,0.4,0,0,10.0,5.0,0,12,Fruit

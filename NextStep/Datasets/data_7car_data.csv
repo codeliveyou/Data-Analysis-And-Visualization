@@ -1,0 +1,11 @@
+manufacturer,model,fuel_efficiency,engine_size,horsepower,weight,acceleration,year,origin
+Toyota,Camry,28,2.5,179,3,8.5,2020,Japan
+Honda,Accord,30,2.4,185,3,7.5,2021,Japan
+Nissan,Altima,29,2.5,188,3,8.0,2022,Japan
+Chevrolet,Malibu,27,1.5,163,3,9.0,2023,United States
+Ford,Fusion,28,2.0,175,3,8.5,2024,United States
+Dodge,Charger,25,3.6,300,4,6.5,2025,United States
+Chrysler,Chrysler,26,3.6,292,4,7.0,2026,United States
+Volkswagen,Jetta,29,1.4,150,3,9.5,2027,Germany
+Hyundai,Elantra,31,2.0,170,3,8.0,2028,South Korea
+Kia,Optima,30,2.4,180,3,7.5,2029,South Korea

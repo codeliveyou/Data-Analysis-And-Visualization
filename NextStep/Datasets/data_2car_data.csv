@@ -1,0 +1,11 @@
+car_model,fuel_economy_mpg,engine_displacement_liters,engine_displacement_cubic_inches,horsepower,weight_lbs,acceleration_0_to_60_seconds,manufacturing_year,country_of_origin
+Tesla Model 3,39,0.28,140,286,3500,5.1,2017,USA
+Toyota Camry,30,2.5,150,181,3300,7.9,2022,Japan
+Honda Civic,31,1.5,99,158,2700,8.2,2023,Japan
+Ford F-150,18,3.5,281,375,6000,6.2,2022,USA
+Chevy Silverado,19,5.3,355,420,6200,6.0,2023,USA
+Toyota Corolla,33,1.8,121,139,2500,9.0,2022,Japan
+Honda Accord,32,2.0,159,192,3200,8.4,2023,Japan
+Nissan Altima,34,2.5,182,188,3000,8.6,2022,Japan
+Hyundai Sonata,35,2.4,178,178,3100,8.8,2023,South Korea
+Kia Optima,36,2.4,178,178,3100,8.8,2022,South Korea

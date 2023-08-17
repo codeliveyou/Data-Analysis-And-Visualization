@@ -1,0 +1,7 @@
+gender,shell length,shell width,shell height,body weight,soft tissue mass,visceral mass,shell mass,age
+male,10,5,3,100,50,20,10,1
+female,12,6,4,120,60,30,12,2
+male,14,7,5,140,70,40,14,3
+female,16,8,6,160,80,50,16,4
+male,18,9,7,180,90,60,18,5
+female,20,10,8,200,100,70,20,6

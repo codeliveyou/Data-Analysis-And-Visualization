@@ -1,0 +1,9 @@
+state,state_code,year,sex,education,education_code,birth_count,average_mother_age,average_birth_weight
+California,CA,2023,Female,High School Diploma,10,1000,25,7.5
+Texas,TX,2023,Male,Bachelor's Degree,12,1500,30,8.0
+Florida,FL,2023,Female,Some College,11,1200,27,7.75
+New York,NY,2023,Male,High School Diploma,10,1000,25,7.5
+Illinois,IL,2023,Female,Master's Degree,13,1700,32,8.25
+Pennsylvania,PA,2023,Male,Some College,11,1200,27,7.75
+Ohio,OH,2023,Female,High School Diploma,10,1000,25,7.5
+Michigan,MI,2023,Male,Bachelor's Degree,12,1500,30,8.0

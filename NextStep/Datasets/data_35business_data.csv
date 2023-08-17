@@ -1,0 +1,26 @@
+business_name,day_of_week,total_sales,is_holiday,average_temperature,gas_cost_per_gallon,consumer_price_index,unemployment_rate
+Acme Corporation,Monday,1000,False,72,3.0,120,4.5
+The Daily Grind,Tuesday,500,False,68,2.8,115,4.0
+The Book Nook,Wednesday,300,False,65,2.7,110,3.5
+The Music Store,Thursday,200,False,62,2.6,105,3.0
+The Toy Shop,Friday,100,False,59,2.5,100,2.5
+The Clothing Store,Saturday,500,True,72,3.0,120,4.5
+The Grocery Store,Sunday,1000,True,68,2.8,115,4.0
+The Hardware Store,Monday,500,False,65,2.7,110,3.5
+The Sporting Goods Store,Tuesday,300,False,62,2.6,105,3.0
+The Electronics Store,Wednesday,200,False,59,2.5,100,2.5
+The Furniture Store,Thursday,100,False,72,3.0,120,4.5
+The Bookstore,Friday,500,True,68,2.8,115,4.0
+The Music Shop,Saturday,300,True,65,2.7,110,3.5
+The Toy Shop,Sunday,200,True,62,2.6,105,3.0
+The Clothing Store,Monday,100,False,59,2.5,100,2.5
+The Grocery Store,Tuesday,500,False,72,3.0,120,4.5
+The Hardware Store,Wednesday,300,False,68,2.8,115,4.0
+The Sporting Goods Store,Thursday,200,False,65,2.7,110,3.5
+The Electronics Store,Friday,100,False,62,2.6,105,3.0
+The Furniture Store,Saturday,500,True,59,2.5,100,2.5
+The Bookstore,Sunday,300,True,72,3.0,120,4.5
+The Music Shop,Monday,200,True,68,2.8,115,4.0
+The Toy Shop,Tuesday,100,True,65,2.7,110,3.5
+The Clothing Store,Wednesday,500,False,62,2.6,105,3.0
+The Grocery Store,Thursday,300,False,59,2.5,100,2.5

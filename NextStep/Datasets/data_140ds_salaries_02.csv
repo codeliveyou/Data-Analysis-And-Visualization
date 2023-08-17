@@ -1,0 +1,20 @@
+experience_level,job_title,salary_in_usd,remote_ratio,company_location
+SE,Machine Learning Engineer,175000,100,US
+MI,Machine Learning Engineer,78945,100,DE
+EN,AI Developer,350000,50,IN
+MI,Machine Learning Engineer,106578,100,NL
+SE,Business Intelligence Engineer,195900,0,ES
+SE,Business Intelligence Engineer,129500,0,US
+EN,Business Intelligence Engineer,225200,100,ES
+SE,Data Engineer,175000,100,US
+EN,Data Scientist,185050,0,US
+SE,Machine Learning Engineer,305000,100,US
+MI,Data Analyst,48299,0,ES
+SE,Data Scientist,38731,100,US
+MI,Data Scientist,105000,0,ES
+SE,Data Scientist,70200,50,IN
+EN,Machine Learning Engineer,160000,0,US
+MI,Machine Learning Engineer,145000,0,IN
+SE,Data Engineer,217200,100,IN
+MI,Business Intelligence Engineer,188000,100,US
+MI,Data Analyst,203000,0,IN

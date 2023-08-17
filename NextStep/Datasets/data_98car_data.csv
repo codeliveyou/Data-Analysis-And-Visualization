@@ -1,0 +1,22 @@
+model,mpg,liters,cubic_inches,hp,lbs,acceleration,year,country
+Corolla,30,3.8,121,130,2800,9.5,2007,Japan
+Camry,28,4.0,150,160,3200,8.5,2008,Japan
+Accord,27,3.5,170,190,3300,8.0,2009,Japan
+Altima,26,2.5,150,170,3100,8.5,2010,USA
+Fusion,25,2.3,160,175,3100,8.5,2011,USA
+Malibu,24,3.0,200,220,3500,8.0,2012,USA
+Cruze,23,1.4,138,150,2900,9.0,2013,USA
+Civic,22,3.5,160,180,3200,8.0,2014,Japan
+Mazda3,21,2.5,155,175,3000,8.5,2015,Japan
+Elantra,20,2.0,145,160,2900,9.0,2016,Korea
+Sonata,19,2.4,170,190,3200,8.5,2017,Korea
+Camry Hybrid,42,2.5,134,140,3100,7.5,2018,Japan
+Accord Hybrid,41,2.0,143,150,2900,7.5,2019,Japan
+Altima Hybrid,39,2.5,152,160,3100,7.5,2020,USA
+Fusion Hybrid,40,2.0,141,150,2900,7.5,2021,USA
+Malibu Hybrid,38,2.0,138,150,2900,7.5,2022,USA
+Cruze Hybrid,37,1.4,138,150,2900,7.5,2023,USA
+Civic Hybrid,36,1.5,139,150,2900,7.5,2024,Japan
+Mazda3 Hybrid,35,2.0,145,160,2900,7.5,2025,Japan
+Elantra Hybrid,34,1.6,140,150,2900,7.5,2026,Korea
+Sonata Hybrid,33,2.0,140,150,2900,7.5,2027,Korea

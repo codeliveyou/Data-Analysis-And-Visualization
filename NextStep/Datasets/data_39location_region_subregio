@@ -1,0 +1,27 @@
+Location,Region,Subregion,Rate,Count,Year
+London,Europe,United Kingdom,10,10000,2023
+Paris,Europe,France,12,12000,2023
+Berlin,Europe,Germany,14,14000,2023
+Rome,Europe,Italy,16,16000,2023
+Madrid,Europe,Spain,18,18000,2023
+Amsterdam,Europe,Netherlands,20,20000,2023
+Stockholm,Europe,Sweden,22,22000,2023
+Copenhagen,Europe,Denmark,24,24000,2023
+Oslo,Europe,Norway,26,26000,2023
+New York City,North America,United States,10,10000,2023
+Los Angeles,North America,United States,12,12000,2023
+Chicago,North America,United States,14,14000,2023
+Houston,North America,United States,16,16000,2023
+Phoenix,North America,United States,18,18000,2023
+Dallas,North America,United States,20,20000,2023
+San Francisco,North America,United States,22,22000,2023
+Seattle,North America,United States,24,24000,2023
+Toronto,North America,Canada,26,26000,2023
+Sydney,Australia,Australia,10,10000,2023
+Melbourne,Australia,Australia,12,12000,2023
+Brisbane,Australia,Australia,14,14000,2023
+Perth,Australia,Australia,16,16000,2023
+Adelaide,Australia,Australia,18,18000,2023
+Canberra,Australia,Australia,20,20000,2023
+Gold Coast,Australia,Australia,22,22000,2023
+Hobart,Australia,Australia,24,24000,2023

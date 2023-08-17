@@ -1,0 +1,14 @@
+item,servesize,calories,protien,totalfat,satfat,transfat,cholestrol,carbs,sugar,addedsugar,sodium,menu
+Hamburger,1,300,20,15,5,5,80,30,10,5,400,Lunch
+French fries,1,250,4,10,1,5,20,35,10,0,200,Lunch
+Chicken nuggets,6,150,10,10,1,2,10,10,5,0,150,Lunch
+Salad,1,100,10,0,5,5,80,10,5,0,100,Lunch
+Soda,12 fl oz,150,0,0,5,5,20,40,0,0,300,Drinks
+Water,16 fl oz,120,0,10,2,2,10,0,0,0,0,Drinks
+Coffee,12 fl oz,130,0,0,0,5,80,5,0,0,100,Drinks
+Tea,16 fl oz,150,0,10,0,5,20,0,0,0,0,Drinks
+Ice cream,1 scoop,150,5,10,5,2,10,15,10,5,100,Dessert
+Cake,1 slice,200,5,10,5,5,80,20,10,5,150,Dessert
+Cookies,2 cookies,100,2,5,2,5,20,10,5,2,50,Dessert
+Fruit,1 serving,50,1,0,0,2,10,10,5,0,0,Dessert
+Yogurt,1 cup,100,10,0,0,0,80,20,10,0,100,Dessert

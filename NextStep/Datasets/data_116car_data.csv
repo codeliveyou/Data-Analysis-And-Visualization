@@ -1,0 +1,9 @@
+car_name,fuel_efficiency,engine_cylinders,engine_displacement,horsepower,weight_in_pounds,acceleration_in_seconds,model_year,country_of_origin
+Tesla Model 3,35,4,1.5,275,3,5.1,2017,United States
+Honda Civic,30,4,1.5,174,2,7.5,2023,Japan
+Toyota Camry,28,4,2.5,203,3,8.1,2022,Japan
+Ford F-150,22,6,3.5,375,5,7.0,2023,United States
+Chevy Silverado,21,8,5.3,420,6,6.5,2022,United States
+Dodge Ram 1500,20,8,5.7,395,6,6.3,2023,United States
+Toyota Prius,50,4,1.8,134,3,9.8,2023,Japan
+Honda Insight,49,4,1.5,151,2,10.2,2022,Japan

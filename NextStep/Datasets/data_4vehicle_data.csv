@@ -1,0 +1,22 @@
+vehicle_name,fuel_economy,engine_displacement,horsepower,weight_in_pounds,acceleration_in_seconds,year_manufactured,country_of_origin
+Tesla Model 3,39.2,120.0,328,3,5.1,2021,United States
+Toyota Camry,39.2,2.5,203,3,7.9,2023,Japan
+Honda Accord,38.0,2.4,185,3,7.5,2023,Japan
+Ford F-150,23.0,3.5,395,5,6.2,2023,United States
+Chevrolet Silverado 1500,23.0,5.3,420,6,7.0,2023,United States
+Dodge Ram 1500,22.0,5.7,395,6,6.4,2023,United States
+Toyota RAV4,28.0,2.5,203,3,8.1,2023,Japan
+Honda CR-V,28.0,1.5,190,3,8.6,2023,Japan
+Ford Escape,27.0,2.5,181,3,8.9,2023,United States
+Chevy Equinox,27.0,1.5,170,3,9.2,2023,United States
+Jeep Wrangler,17.0,3.6,285,4,6.5,2023,United States
+Chevrolet Camaro,20.0,6.2,455,3,4.6,2023,United States
+Dodge Challenger,19.0,6.4,485,4,4.5,2023,United States
+Ford Mustang,19.0,5.0,460,4,4.8,2023,United States
+Toyota Corolla,31.0,1.8,139,3,9.8,2023,Japan
+Honda Civic,31.0,1.5,174,3,10.2,2023,Japan
+Nissan Sentra,30.0,1.8,147,3,10.5,2023,Japan
+Hyundai Elantra,30.0,2.0,152,3,10.7,2023,South Korea
+Kia Forte,30.0,2.0,147,3,10.9,2023,South Korea
+Volkswagen Jetta,30.0,1.4,150,3,11.1,2023,Germany
+Mazda3,30.0,2.5,186,3,11.3,2023,Japan

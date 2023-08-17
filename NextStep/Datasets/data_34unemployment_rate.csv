@@ -1,0 +1,13 @@
+business_name,weekday,revenue,holiday_flag,avg_temp,gas_price,cpi,unemployment_rate
+Starbucks,Monday,200,False,65,3.5,230,4.5
+McDonald's,Tuesday,150,False,70,3.25,225,4.0
+Walmart,Wednesday,300,False,60,3.0,210,3.5
+Target,Thursday,250,False,55,2.75,205,3.0
+Kroger,Friday,100,False,50,2.5,190,2.5
+Home Depot,Saturday,150,False,45,2.25,185,2.0
+Lowe's,Sunday,200,True,40,2.0,180,1.5
+Costco,Monday,300,True,35,1.75,175,1.0
+Best Buy,Tuesday,250,True,30,1.5,170,0.5
+CVS,Wednesday,100,True,25,1.25,165,0.0
+Walgreens,Thursday,150,True,20,1.0,160,2.5
+Trader Joe's,Friday,200,True,15,0.75,155,2.0

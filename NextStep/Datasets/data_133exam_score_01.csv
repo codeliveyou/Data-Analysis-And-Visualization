@@ -1,0 +1,48 @@
+Gender,ParentEduc,ParentMaritalStatus,IsFirstChild,MathScore
+male,associate's degree,married,yes,58
+male,associate's degree,divorced,yes,40
+female,associate's degree,single,no,66
+male,some college,single,yes,80
+male,some college,divorced,yes,56
+male,high school,single,yes,89
+female,some high school,married,no,75
+female,some high school,divorced,no,18
+male,master's degree,single,no,50
+female,associate's degree,married,yes,52
+male,some high school,married,yes,58
+female,some college,married,no,65
+female,some high school,divorced,no,66
+male,master's degree,married,yes,75
+male,some college,married,yes,66
+female,some college,divorced,yes,69
+male,high school,single,no,58
+female,some college,married,yes,66
+female,some college,divorced,yes,63
+female,master's degree,single,yes,58
+male,associate's degree,married,no,40
+male,some college,divorced,yes,97
+male,some high school,single,no,81
+female,high school,married,no,76
+female,high school,married,no,58
+female,associate's degree,married,no,77
+male,associate's degree,single,no,58
+male,associate's degree,married,no,59
+female,associate's degree,divorced,no,59
+male,some college,married,yes,60
+female,bachelor's degree,married,yes,48
+male,some college,single,yes,63
+female,bachelor's degree,married,yes,67
+male,high school,married,no,82
+male,some college,married,no,54
+male,associate's degree,married,no,78
+female,high school,divorced,yes,59
+female,some high school,married,yes,84
+male,some college,single,no,52
+male,some college,married,no,61
+female,bachelor's degree,single,yes,0
+male,some college,married,yes,39
+male,bachelor's degree,married,no,62
+female,some high school,married,yes,59
+male,some high school,married,yes,66
+male,some high school,married,yes,45
+female,some college,married,no,61

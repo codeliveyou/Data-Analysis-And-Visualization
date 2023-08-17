@@ -1,0 +1,27 @@
+store_name,day_of_week,total_sales,is_holiday,average_temperature,fuel_price,consumer_price_index,unemployment_rate
+Store A,Monday,1000,False,70,3.0,120,4.5
+Store B,Tuesday,1500,False,65,3.25,125,5.0
+Store C,Wednesday,2000,False,60,3.5,130,5.5
+Store D,Thursday,2500,False,55,3.75,135,6.0
+Store E,Friday,3000,False,50,4.0,140,6.5
+Store F,Saturday,3500,True,45,4.25,145,7.0
+Store G,Sunday,4000,True,40,4.5,150,7.5
+Store H,Monday,4500,False,55,4.75,155,8.0
+Store I,Tuesday,5000,False,50,5.0,160,8.5
+Store J,Wednesday,5500,False,45,5.25,165,9.0
+Store K,Thursday,6000,False,40,5.5,170,9.5
+Store L,Friday,6500,False,55,5.75,175,10.0
+Store M,Saturday,7000,True,50,6.0,180,10.5
+Store N,Sunday,7500,True,45,6.25,185,11.0
+Store O,Monday,8000,False,40,6.5,190,11.5
+Store P,Tuesday,8500,False,70,6.75,195,12.0
+Store Q,Wednesday,9000,False,65,7.0,200,12.5
+Store R,Thursday,9500,False,60,7.25,205,13.0
+Store S,Friday,10000,False,55,7.5,210,13.5
+Store T,Saturday,10500,True,50,7.75,215,14.0
+Store U,Sunday,11000,True,55,8.0,220,14.5
+Store V,Monday,11500,False,50,8.25,225,15.0
+Store W,Tuesday,12000,False,45,8.5,230,15.5
+Store X,Wednesday,12500,False,40,8.75,235,16.0
+Store Y,Thursday,13000,False,55,9.0,240,16.5
+Store Z,Friday,13500,False,50,9.25,245,17.0

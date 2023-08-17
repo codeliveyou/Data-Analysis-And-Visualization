@@ -1,0 +1,10 @@
+country_name,region_name,subregion_name,"cases_per_100,000",total_cases,year
+United States,North America,North America,300,10000000,2023
+Canada,North America,North America,200,5000000,2023
+Mexico,North America,North America,100,2500000,2023
+Brazil,South America,South America,500,15000000,2023
+Argentina,South America,South America,400,10000000,2023
+Colombia,South America,South America,300,7500000,2023
+China,Asia,East Asia,1000,400000000,2023
+India,Asia,South Asia,500,200000000,2023
+Japan,Asia,East Asia,200,100000000,2023

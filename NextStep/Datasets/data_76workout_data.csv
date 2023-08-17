@@ -1,0 +1,25 @@
+Target_Area,Muscle_Group,Exercise_Name,Workout_Duration,Repetitions
+Chest,Pectoralis Major,Bench Press,30 minutes,10-12 repetitions
+Chest,Pectoralis Major,Incline Dumbbell Press,20 minutes,10-12 repetitions
+Chest,Pectoralis Major,Decline Dumbbell Press,15 minutes,10-12 repetitions
+Back,Latissimus Dorsi,Pull-Ups,30 minutes,8-10 repetitions
+Back,Latissimus Dorsi,Seated Cable Rows,20 minutes,10-12 repetitions
+Back,Latissimus Dorsi,One-Arm Dumbbell Rows,15 minutes,10-12 repetitions
+Shoulders,Deltoids,Overhead Press,30 minutes,8-10 repetitions
+Shoulders,Deltoids,Front Raises,20 minutes,10-12 repetitions
+Shoulders,Deltoids,Lateral Raises,15 minutes,10-12 repetitions
+Triceps,Triceps Brachii,Close-Grip Bench Press,30 minutes,8-10 repetitions
+Triceps,Triceps Brachii,Triceps Pushdowns,20 minutes,10-12 repetitions
+Triceps,Triceps Brachii,Overhead Triceps Extensions,15 minutes,10-12 repetitions
+Biceps,Biceps Brachii,Barbell Curls,30 minutes,8-10 repetitions
+Biceps,Biceps Brachii,Dumbbell Curls,20 minutes,10-12 repetitions
+Biceps,Biceps Brachii,Hammer Curls,15 minutes,10-12 repetitions
+Abs,Rectus Abdominis,Crunches,30 minutes,20-25 repetitions
+Abs,Rectus Abdominis,Leg Raises,20 minutes,15-20 repetitions
+Abs,Rectus Abdominis,Plank,15 minutes,30-60 seconds
+Legs,Quadriceps,Squats,30 minutes,10-12 repetitions
+Legs,Quadriceps,Leg Press,20 minutes,10-12 repetitions
+Legs,Quadriceps,Leg Extensions,15 minutes,10-12 repetitions
+Legs,Hamstrings,Deadlifts,30 minutes,8-10 repetitions
+Legs,Hamstrings,Leg Curls,20 minutes,10-12 repetitions
+Legs,Calves,Calf Raises,15 minutes,15-20 repetitions

@@ -1,0 +1,7 @@
+body_part,muscle_type,exercise,number_of_sets,reps_per_set
+Chest,Pectoralis Major,Bench Press,3,10
+Back,Latissimus Dorsi,Pull-Ups,3,10
+Legs,Quadriceps,Squats,3,10
+Shoulders,Deltoids,Overhead Press,3,10
+Biceps,Biceps Brachii,Bicep Curls,3,10
+Triceps,Triceps Brachii,Triceps Pushdowns,3,10

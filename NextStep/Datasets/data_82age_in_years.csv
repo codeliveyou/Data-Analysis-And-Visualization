@@ -1,0 +1,12 @@
+gender,shell_length,shell_width,shell_height,body_mass,shellless_mass,viscera_mass,shell_weight,age_in_years
+male,10,5,3,100,50,20,30,2
+female,11,6,4,110,60,25,35,3
+male,12,7,5,120,70,30,40,4
+female,13,8,6,130,80,35,45,5
+male,14,9,7,140,90,40,50,6
+female,15,10,8,150,100,45,55,7
+male,16,11,9,160,110,50,60,8
+female,17,12,10,170,120,55,65,9
+male,18,13,11,180,130,60,70,10
+female,19,14,12,190,140,65,75,11
+male,20,15,13,200,150,70,80,12

@@ -1,0 +1,16 @@
+patient_identifier,years_old,gender,body_weight,height_in_inches,body_mass_index,medical_case_identifier,days_since_follow_up,outcome
+1,20,male,150,70,22.2,12345,30,good
+2,30,female,160,65,23.4,67890,10,bad
+3,40,male,110,75,24.6,98765,20,good
+4,50,female,120,80,25.8,12345,30,bad
+5,60,male,130,85,27.0,67890,10,good
+6,70,female,140,90,28.2,98765,20,bad
+7,80,male,105,95,29.4,12345,30,good
+8,90,female,125,100,30.6,67890,10,bad
+9,25,male,135,105,31.8,98765,20,good
+10,60,female,130,110,33.0,12345,30,bad
+11,27,male,140,115,34.2,67890,10,good
+12,30,female,105,120,35.4,98765,20,bad
+13,33,male,120,125,36.6,12345,30,good
+14,39,female,130,130,37.8,67890,10,bad
+15,46,male,135,135,39.0,98765,20,good

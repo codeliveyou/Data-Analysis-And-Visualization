@@ -1,0 +1,9 @@
+place of birth,location,year of birth,gender,highest level of education,education code,number of births,average age of mothers,average birth weight
+New York City,New York,2023,Female,Master's degree,123,100,28,7.5
+Los Angeles,California,2023,Male,Bachelor's degree,124,50,30,8.0
+Chicago,Illinois,2023,Female,Associate's degree,125,200,25,6.5
+Houston,Texas,2023,Male,High school diploma,126,100,20,7.0
+Phoenix,Arizona,2023,Female,Some college,127,50,15,6.5
+San Antonio,Texas,2023,Male,GED,128,200,10,7.0
+Dallas,Texas,2023,Female,No high school diploma,129,100,5,6.5
+San Diego,California,2023,Male,Unknown,130,50,2,7.0

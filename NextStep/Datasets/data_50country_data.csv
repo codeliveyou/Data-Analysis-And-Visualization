@@ -1,0 +1,10 @@
+country_name,country_code,year,mobile_subscribers,percent_internet_users,total_internet_users,fixed_broadband_subscribers
+United States,US,2023,333.4,90.5,303.1,200.3
+China,CN,2023,1.6130000000000002,70.2,1131.4,512.2
+India,IN,2023,1.165,50.7,688.5,557.2
+Japan,JP,2023,124.3,88.2,109.5,114.8
+Germany,DE,2023,102.1,90.5,92.1,100.0
+United Kingdom,UK,2023,67.1,92.7,62.2,65.0
+France,FR,2023,66.7,89.0,63.0,69.7
+Brazil,BR,2023,213.5,68.0,144.1,69.4
+Russia,RU,2023,203.8,74.9,152.7,51.1

@@ -1,0 +1,23 @@
+Body Region,Muscle Targeted,Workout,Workout Duration,Repetitions
+Chest,Pectoralis Major,Bench Press,30 minutes,10-12 repetitions
+Chest,Pectoralis Major,Incline Dumbbell Press,20 minutes,12-15 repetitions
+Chest,Pectoralis Major,Decline Dumbbell Press,15 minutes,15-18 repetitions
+Chest,Pectoralis Minor,Flyes,10 minutes,15-20 repetitions
+Back,Latissimus Dorsi,Pull-Ups,20 minutes,10-12 repetitions
+Back,Latissimus Dorsi,Seated Cable Rows,20 minutes,12-15 repetitions
+Back,Trapezius,Shrugs,15 minutes,15-18 repetitions
+Back,Rhomboids,Pull-Apart Exercises,10 minutes,15-20 repetitions
+Shoulders,Deltoids,Overhead Press,20 minutes,10-12 repetitions
+Shoulders,Deltoids,Lateral Raises,20 minutes,12-15 repetitions
+Shoulders,Trapezius,Front Raises,15 minutes,15-18 repetitions
+Biceps,Biceps Brachii,Barbell Curls,15 minutes,15-20 repetitions
+Biceps,Biceps Brachii,Dumbbell Curls,15 minutes,15-20 repetitions
+Triceps,Triceps Brachii,Overhead Triceps Extensions,15 minutes,15-20 repetitions
+Triceps,Triceps Brachii,Close-Grip Bench Press,15 minutes,15-20 repetitions
+Abs,Rectus Abdominis,Crunches,15 minutes,20-25 repetitions
+Abs,Internal and External Obliques,Side Planks,15 minutes,30-60 seconds per side
+Abs,Internal and External Obliques,Russian Twists,15 minutes,20-25 repetitions
+Legs,Quadriceps,Squats,20 minutes,15-20 repetitions
+Legs,Hamstrings,Deadlifts,20 minutes,10-12 repetitions
+Legs,Hamstrings,Leg Press,20 minutes,12-15 repetitions
+Legs,Calves,Calf Raises,15 minutes,20-25 repetitions

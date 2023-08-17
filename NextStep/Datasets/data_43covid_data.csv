@@ -1,0 +1,14 @@
+country,georegion,subregion,cases_per_hundred_thousand,total_cases,year
+United States,North America,North America,1000,1000000,2023
+India,Asia,South Asia,500,500000,2023
+China,Asia,East Asia,250,250000,2023
+Brazil,South America,South America,100,100000,2023
+Russia,Europe,Eastern Europe,50,50000,2023
+Japan,Asia,East Asia,25,25000,2023
+Germany,Europe,Western Europe,10,10000,2023
+United Kingdom,Europe,Western Europe,5,5000,2023
+France,Europe,Western Europe,250,2000,2023
+Italy,Europe,Southern Europe,250,1000,2023
+Canada,North America,North America,250,500,2023
+Australia,Australia and New Zealand,Australia,250,250,2023
+New Zealand,Australia and New Zealand,New Zealand,250,125,2023

@@ -1,0 +1,10 @@
+patient_id,age_years,gender,weight_pounds,height_inches,body_mass_index,case_number,follow_up_time_in_days,outcome
+1,45,male,180,72,25,12345,30,good
+2,30,female,120,60,20,45678,15,bad
+3,50,male,200,78,30,78901,20,good
+4,25,female,100,50,15,23456,10,bad
+5,60,male,220,86,35,98765,25,good
+6,18,female,90,48,12,34567,5,bad
+7,70,male,240,94,40,87654,30,good
+8,20,female,80,40,10,12345,10,bad
+9,80,male,260,102,45,65432,35,good

@@ -1,0 +1,7 @@
+food,serving size,calories per serving,protein grams per serving,total fat grams per serving,saturated fat grams per serving,trans fat grams per serving,cholesterol milligrams per serving,carbohydrate grams per serving,sugar grams per serving,added sugar grams per serving,sodium milligrams per serving,menu category
+Pizza,1 slice,200,10,10,1,0,30,10,2,0,700,regular
+Hamburger,1 patty,300,20,15,5,0,100,30,10,0,900,regular
+Salad,1 cup,100,5,5,0,0,0,10,5,0,200,regular
+Pasta,1 cup,200,10,10,1,0,200,30,10,0,800,regular
+Sushi,1 roll,300,15,10,5,0,50,20,10,0,600,regular
+Tacos,2 tacos,300,15,10,5,0,50,20,10,0,700,regular

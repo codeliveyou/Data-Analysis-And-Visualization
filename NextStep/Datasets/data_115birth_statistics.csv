@@ -1,0 +1,23 @@
+birth_location,state_code,year_of_birth,sex,highest_education_level,education_level_id,number_of_births,average_mother_age,average_birth_weight
+New York City,NY,2023,Female,Master,1,100,30,7.5
+Los Angeles,CA,2023,Male,Bachelor,2,50,29,8.0
+Chicago,IL,2023,Female,Doctorate,3,20,32,9.0
+Houston,TX,2023,Male,Master,4,100,28,7.0
+Phoenix,AZ,2023,Female,Bachelor,5,50,27,6.0
+San Antonio,TX,2023,Male,Doctorate,6,20,31,8.5
+San Diego,CA,2023,Female,Master,7,100,29,7.5
+Dallas,TX,2023,Male,Bachelor,8,50,28,7.0
+San Jose,CA,2023,Female,Doctorate,9,20,32,9.0
+Austin,TX,2023,Male,Master,10,100,28,7.0
+Seattle,WA,2023,Female,Bachelor,11,50,27,6.0
+Denver,CO,2023,Male,Doctorate,12,20,31,8.5
+Washington D.C.,DC,2023,Female,Master,13,100,29,7.5
+Boston,MA,2023,Male,Bachelor,14,50,28,7.0
+Miami,FL,2023,Female,Doctorate,15,20,32,9.0
+Philadelphia,PA,2023,Male,Master,16,100,28,7.0
+Atlanta,GA,2023,Female,Bachelor,17,50,27,6.0
+Las Vegas,NV,2023,Male,Doctorate,18,20,31,8.5
+Portland,OR,2023,Female,Master,19,100,29,7.5
+San Francisco,CA,2023,Male,Bachelor,20,50,28,7.0
+Baltimore,MD,2023,Female,Doctorate,21,20,32,9.0
+Orlando,FL,2023,Male,Master,22,100,28,7.0

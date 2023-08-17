@@ -1,0 +1,8 @@
+store,day,sales,holiday,temperature,fuel,cpi,unemployment
+Store 1,Monday,100,False,70,3.0,120,5.0
+Store 2,Tuesday,120,True,65,2.5,110,4.5
+Store 3,Wednesday,140,False,60,2.0,100,4.0
+Store 4,Thursday,160,True,55,1.5,90,3.5
+Store 5,Friday,180,False,50,1.0,80,3.0
+Store 6,Saturday,200,True,45,0.5,70,2.5
+Store 7,Sunday,220,False,40,0.0,60,2.0

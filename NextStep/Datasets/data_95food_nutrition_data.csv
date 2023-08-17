@@ -1,0 +1,9 @@
+food_name,serving_size,calories,protein,fat,saturated_fat,trans_fat,cholesterol,carbs,sugar,added_sugar,sodium,food_type
+Apple,1,95,0.3,0.2,0.0,0,19.5,9.5,0.0,0,10,Fruit
+Banana,1,105,1.3,0.3,0.0,0,1.0,27.0,12.0,0,1,Fruit
+Orange,1,62,0.9,0.1,0.0,0,0.0,12.4,9.5,0,1,Fruit
+Pear,1,95,0.5,0.1,0.0,0,0.0,19.4,9.5,0,1,Fruit
+Grapefruit,1,85,1.1,0.1,0.0,0,0.0,17.1,9.0,0,1,Fruit
+Strawberry,1,49,1.5,0.3,0.1,0,0.0,9.7,5.3,0,8,Fruit
+Blueberry,1,84,0.8,0.3,0.1,0,0.0,18.1,14.5,0,3,Fruit
+Pineapple,1,131,1.1,0.2,0.1,0,0.0,25.5,11.6,10,10,Fruit

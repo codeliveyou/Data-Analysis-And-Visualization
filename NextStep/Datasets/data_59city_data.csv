@@ -1,0 +1,12 @@
+data_availability,affordable_housing,educational_quality,trust_in_police,roads_and_sidewalks,local_gatherings,mental_health
+Good,Yes,High,High,Good,Frequent,Good
+Good,Yes,Medium,Medium,Good,Occasional,Good
+Good,No,Low,Low,Fair,Rare,Fair
+Bad,Yes,High,Low,Bad,Rare,Poor
+Bad,No,Low,High,Bad,Frequent,Poor
+Good,Yes,Medium,Good,Good,Frequent,Good
+Good,No,High,Medium,Good,Occasional,Good
+Bad,Yes,Low,Low,Fair,Rare,Fair
+Bad,No,Low,High,Bad,Rare,Poor
+Good,Yes,Medium,Good,Good,Frequent,Good
+Good,No,High,Medium,Good,Occasional,Good

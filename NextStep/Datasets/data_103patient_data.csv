@@ -1,0 +1,16 @@
+patient_identifier,years_old,gender,body_weight,height_in_inches,body_mass_index,case_number,number_of_follow_up_days,outcome
+1,30,male,150,106,22.222222,123456,10,alive
+2,25,female,120,78,20.0,654321,15,dead
+3,40,male,130,78,28.571429,789456,20,alive
+4,50,female,90,70,25.0,321654,25,dead
+5,60,male,120,76,31.818182,987654,30,alive
+6,70,female,160,64,25.0,543219,35,dead
+7,80,male,122,82,33.333333,1234567,40,alive
+8,90,female,140,58,20.0,6543217,45,dead
+9,40,male,160,88,38.461538,7894567,50,alive
+10,33,female,120,52,18.181818,3216547,55,dead
+11,89,male,110,94,42.857143,9876547,60,alive
+12,70,female,100,46,16.666667,5432197,65,dead
+13,59,male,150,100,50.0,12345678,70,alive
+14,45,female,80,40,13.333332999999998,65432178,75,dead
+15,60,male,155,106,56.25,78945678,80,alive

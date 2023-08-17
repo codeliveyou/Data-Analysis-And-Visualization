@@ -1,0 +1,16 @@
+country,region,subregion,cases_per_hundred_thousand,total_cases,year
+United States,North America,North America,12345,67890,2023
+Canada,North America,North America,54321,32109,2023
+Mexico,North America,North America,32109,12345,2023
+Brazil,South America,South America,98765,45678,2023
+Argentina,South America,South America,76543,23456,2023
+Colombia,South America,South America,54321,12345,2023
+China,Asia,East Asia,12345,67890,2023
+India,Asia,South Asia,54321,32109,2023
+Japan,Asia,East Asia,32109,12345,2023
+Indonesia,Asia,Southeast Asia,98765,45678,2023
+Vietnam,Asia,Southeast Asia,76543,23456,2023
+Thailand,Asia,Southeast Asia,54321,12345,2023
+Germany,Europe,Western Europe,12345,67890,2023
+United Kingdom,Europe,Western Europe,54321,32109,2023
+France,Europe,Western Europe,32109,12345,2023

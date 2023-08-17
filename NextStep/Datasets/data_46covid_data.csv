@@ -1,0 +1,29 @@
+country_name,region_name,subregion_name,cases_per_100k,total_cases,year
+United States,North America,North America,1000,1000000,2023
+Canada,North America,North America,500,500000,2023
+Mexico,North America,North America,250,250000,2023
+Brazil,South America,South America,750,750000,2023
+Argentina,South America,South America,500,500000,2023
+Colombia,South America,South America,250,250000,2023
+Peru,South America,South America,100,100000,2023
+Chile,South America,South America,50,50000,2023
+Venezuela,South America,South America,25,25000,2023
+Ecuador,South America,South America,10,10000,2023
+United Kingdom,Europe,Europe,750,750000,2023
+France,Europe,Europe,500,500000,2023
+Germany,Europe,Europe,250,250000,2023
+Italy,Europe,Europe,100,100000,2023
+Spain,Europe,Europe,50,50000,2023
+Poland,Europe,Europe,25,25000,2023
+Russia,Europe,Europe,10,10000,2023
+Netherlands,Europe,Europe,5,5000,2023
+Sweden,Europe,Europe,2,2000,2023
+China,Asia,Asia,1000,1000000,2023
+India,Asia,Asia,500,500000,2023
+Japan,Asia,Asia,250,250000,2023
+South Korea,Asia,Asia,100,100000,2023
+Indonesia,Asia,Asia,50,50000,2023
+Thailand,Asia,Asia,25,25000,2023
+Vietnam,Asia,Asia,10,10000,2023
+Australia,Australia,Australia,5,5000,2023
+New Zealand,Australia,Australia,2,2000,2023

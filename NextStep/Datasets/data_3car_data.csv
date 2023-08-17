@@ -1,0 +1,19 @@
+car_name,fuel_efficiency,engine_size,engine_size_ci,horsepower,weight,acceleration,year_made,country_origin
+Tesla Model 3,39.2,286.0,140,358,4.4,9.0,2017,United States
+Toyota Camry,30.4,2.5,159,178,3400.0,8.5,2023,Japan
+Honda Civic,31.4,1.5,130,158,3100.0,7.5,2022,Japan
+Ford F-150,21.0,3.5,250,375,5600.0,6.5,2023,United States
+Chevrolet Silverado,20.5,5.3,355,420,6000.0,6.0,2023,United States
+Dodge Ram 1500,22.0,5.7,395,410,6300.0,6.0,2023,United States
+Toyota Corolla,33.4,1.8,130,139,2900.0,8.5,2022,Japan
+Honda Accord,32.0,2.0,158,174,3200.0,8.0,2022,Japan
+Nissan Altima,30.8,2.5,188,182,3300.0,7.5,2022,Japan
+Hyundai Sonata,31.0,2.5,187,191,3300.0,8.0,2022,South Korea
+Kia Optima,31.2,2.4,185,187,3200.0,8.0,2022,South Korea
+Volkswagen Jetta,31.0,1.4,140,150,2900.0,8.0,2022,Germany
+Mazda3,31.0,2.5,187,184,3200.0,8.0,2022,Japan
+Ford Focus,31.0,2.0,160,178,3000.0,8.0,2022,United States
+Chevy Cruze,31.0,1.4,138,153,2900.0,8.0,2022,United States
+Honda Civic Si,28.0,1.5,174,205,3000.0,7.0,2023,Japan
+Toyota Corolla GR,27.0,1.6,228,273,3300.0,6.0,2023,Japan
+Mazda3 Turbo,28.0,2.5,227,250,3200.0,6.0,2023,Japan

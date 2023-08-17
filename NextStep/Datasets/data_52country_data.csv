@@ -1,0 +1,23 @@
+country_name,iso_code,year,mobile_subscriber_count,internet_penetration_rate,total_internet_users,fixed_broadband_subscriber_count
+United States,US,2023,332.5,90.0,302.5,232.5
+China,CN,2023,1.455,70.0,1027.5,727.5
+India,IN,2023,1.125,40.0,450.0,350.0
+Japan,JP,2023,125.0,80.0,100.0,75.0
+Germany,DE,2023,83.0,85.0,72.5,67.5
+United Kingdom,UK,2023,67.0,80.0,53.5,50.0
+France,FR,2023,66.0,85.0,56.5,52.5
+Brazil,BR,2023,212.0,70.0,148.5,135.5
+Russia,RU,2023,146.0,70.0,102.2,92.2
+Indonesia,ID,2023,279.0,60.0,167.4,150.4
+Mexico,MX,121,75.0,90.75,85.75,
+Canada,CA,38,90.0,34.2,31.2,
+Italy,IT,60,85.0,51.0,47.0,
+Spain,ES,47,85.0,39.95,37.95,
+Argentina,AR,45,75.0,33.75,30.75,
+Turkey,TR,83,80.0,66.4,62.4,
+South Korea,KR,51,90.0,45.9,42.9,
+Australia,AU,26,95.0,24.7,22.7,
+Netherlands,NL,17,95.0,16.15,14.15,
+Poland,PL,38,85.0,32.8,29.8,
+Thailand,TH,70,75.0,52.5,47.5,
+Egypt,EG,100,65.0,65.0,55.0,

@@ -1,0 +1,11 @@
+is_business_day,day_of_week_name,total_revenue,is_holiday_flag,average_temp,gas_price,cpi,unemployment_rate
+True,Monday,10000,False,70,3.5,200,5.5
+True,Tuesday,20000,False,65,3.25,205,6.0
+True,Wednesday,30000,False,60,3.0,210,6.5
+True,Thursday,40000,False,55,2.75,215,7.0
+True,Friday,50000,False,50,2.5,220,7.5
+False,Saturday,50000,True,65,3.25,205,6.0
+False,Sunday,50000,True,70,3.5,200,5.5
+True,Monday,60000,False,65,3.25,205,6.0
+True,Tuesday,70000,False,60,3.0,210,6.5
+True,Wednesday,80000,False,55,2.75,215,7.0

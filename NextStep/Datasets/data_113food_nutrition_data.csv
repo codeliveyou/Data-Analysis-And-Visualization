@@ -1,0 +1,7 @@
+food_name,serving_size_in_grams,calories_per_serving,protein_in_grams,total_fat_in_grams,saturated_fat_in_grams,trans_fat_in_grams,cholesterol_in_milligrams,carbohydrates_in_grams,sugar_in_grams,added_sugar_in_grams,sodium_in_milligrams,food_category
+Apple,100,95,0.3,0.2,0,0,19.5,10.4,0.0,10.0,10,Fruit
+Banana,100,105,1.1,0.3,0,0,1.0,22.8,12.2,1.2,10,Fruit
+Orange,100,62,1.2,0.2,0,0,0.0,11.6,5.3,0.0,20,Fruit
+Peach,100,67,1.4,0.3,0,0,0.0,12.6,6.4,0.0,22,Fruit
+Pear,100,57,0.5,0.1,0,0,0.0,10.4,4.7,0.0,14,Fruit
+Strawberry,100,32,1.5,0.3,0,0,0.0,6.5,3.2,0.0,18,Fruit

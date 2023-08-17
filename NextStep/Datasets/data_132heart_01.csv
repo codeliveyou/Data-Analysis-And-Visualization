@@ -1,0 +1,12 @@
+age,sex,chest pain type,resting blood pressure,serum cholestoral,fasting blood sugar,resting electrocardiographic results,max heart rate,exercise induced angina,heart disease
+72,0,3,130,328,0,2,110,1,1
+68,0,3,125,555,1,0,169,1,1
+57,1,2,124,261,0,0,141,0,2
+66,0,4,128,263,1,0,105,1,2
+74,1,3,115,279,0,2,122,1,1
+69,1,4,130,179,0,2,140,0,2
+56,0,3,130,256,1,0,142,1,2
+57,1,4,115,247,0,0,143,0,1
+60,0,3,140,269,0,2,170,1,1
+69,1,2,143,399,0,0,158,0,2
+59,1,4,135,266,0,0,161,0,2

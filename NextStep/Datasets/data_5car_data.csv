@@ -1,0 +1,21 @@
+manufacturer_model,fuel_economy,engine_displacement,horsepower,gross_weight,acceleration_in_seconds,year_manufactured,country_of_origin
+Honda Civic,30,1.5,130,2000,8.5,2010,Japan
+Toyota Corolla,35,1.8,140,2200,9.0,2011,Japan
+Nissan Sentra,32,1.6,120,2100,8.7,2012,Japan
+Chevrolet Cruze,30,1.4,130,2000,8.5,2013,United States
+Ford Focus,33,1.6,120,2100,8.8,2014,United States
+Hyundai Elantra,31,1.6,125,2000,8.6,2015,South Korea
+Kia Forte,32,1.6,130,2100,8.7,2016,South Korea
+Volkswagen Jetta,34,1.4,150,2200,9.2,2017,Germany
+Mazda3,33,2.0,155,2300,9.1,2018,Japan
+Subaru Impreza,32,2.0,150,2300,9.0,2019,Japan
+Honda Accord,30,2.4,180,3000,8.5,2020,Japan
+Toyota Camry,35,2.5,200,3200,9.0,2021,Japan
+Nissan Altima,32,2.5,180,3000,8.7,2022,Japan
+Chevrolet Malibu,30,2.0,160,2800,8.5,2023,United States
+Ford Fusion,33,2.5,180,3000,8.8,2024,United States
+Hyundai Sonata,31,2.4,175,2900,8.6,2025,South Korea
+Kia Optima,32,2.4,185,3000,8.7,2026,South Korea
+Volkswagen Passat,34,1.8,170,2700,9.2,2027,Germany
+Mazda6,33,2.5,185,2900,9.1,2028,Japan
+Subaru Legacy,32,2.5,175,2900,9.0,2029,Japan

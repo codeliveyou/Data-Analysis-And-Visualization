@@ -1,0 +1,9 @@
+Sex,Shell Length (mm),Shell Width (mm),Shell Height (mm),Body Weight (g),Shellless Weight (g),Viscera Weight (g),Shell Mass (g),Age (years)
+Male,50,30,10,100,70,30,20,1
+Female,40,25,8,80,60,20,15,2
+Male,60,40,12,120,90,40,25,3
+Female,55,35,11,110,85,35,22,4
+Male,70,50,14,140,100,50,30,5
+Female,65,45,13,130,95,45,27,6
+Male,80,60,16,160,120,60,35,7
+Female,75,55,15,150,115,55,32,8

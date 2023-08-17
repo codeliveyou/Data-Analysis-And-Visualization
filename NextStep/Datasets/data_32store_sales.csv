@@ -1,0 +1,24 @@
+Store Name,Day of Week,Total Sales,Is Holiday,Average Temperature (°F),Fuel Price (\$/gallon),Consumer Price Index (CPI),Unemployment Rate (%)
+Store 1,Monday,1000,False,70,3.0,200,3.5
+Store 2,Tuesday,1200,False,65,2.95,205,3.6
+Store 3,Wednesday,1400,False,60,2.9,210,3.7
+Store 4,Thursday,1600,False,55,2.85,215,3.8
+Store 5,Friday,1800,False,50,2.8,220,3.9
+Store 6,Saturday,2000,True,45,2.75,225,4.0
+Store 7,Sunday,2200,True,40,2.7,230,4.1
+Store 8,Monday,2400,False,35,2.65,235,4.2
+Store 9,Tuesday,2600,False,30,2.6,240,4.3
+Store 10,Wednesday,2800,False,25,2.55,245,4.4
+Store 11,Thursday,3000,False,20,2.5,250,4.5
+Store 12,Friday,3200,False,15,2.45,255,4.6
+Store 13,Saturday,3400,True,60,2.4,260,4.7
+Store 14,Sunday,3600,True,55,2.35,265,4.8
+Store 15,Monday,3800,False,50,2.3,270,4.9
+Store 16,Tuesday,4000,False,45,2.25,275,5.0
+Store 17,Wednesday,4200,False,40,2.2,280,5.1
+Store 18,Thursday,4400,False,35,2.15,285,5.2
+Store 19,Friday,4600,False,30,2.1,290,5.3
+Store 20,Saturday,4800,True,25,2.05,295,5.4
+Store 21,Sunday,5000,True,30,2.0,300,5.5
+Store 22,Monday,5200,False,35,1.95,305,5.6
+Store 23,Tuesday,5400,False,40,1.9,310,5.7

@@ -1,0 +1,22 @@
+country,country_code,year,mobile_users,internet_users_per_100_people,total_internet_users,fixed_broadband_users
+United States,US,2023,250,95,300,150
+China,CN,2023,1200,70,1300,900
+India,IN,2023,900,60,1000,750
+Japan,JP,2023,300,80,400,250
+Germany,DE,2023,200,90,300,150
+United Kingdom,UK,2023,150,85,200,125
+France,FR,2023,100,75,150,100
+Brazil,BR,2023,800,50,900,700
+Russia,RU,2023,600,40,700,500
+Indonesia,ID,2023,500,35,600,450
+Mexico,MX,2023,400,30,500,350
+Canada,CA,2023,300,25,400,300
+Italy,IT,2023,250,20,350,225
+Spain,ES,2023,200,15,300,200
+South Korea,KR,2023,150,10,200,150
+Australia,AU,2023,100,5,150,100
+Turkey,TR,2023,80,4,100,80
+Poland,PL,2023,75,3,100,75
+Argentina,AR,2023,60,2,75,60
+Netherlands,NL,2023,50,2,75,50
+Thailand,TH,2023,40,1,50,40
